@@ -20,6 +20,9 @@ article:
     readingTime:
         other: "読了時間: {{ .Count }}分"
 
+    shareThisPost:
+        other: この投稿をシェア
+
 notFound:
     title:
         other: 404 Not Found

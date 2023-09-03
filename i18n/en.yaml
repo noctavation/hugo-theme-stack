@@ -33,6 +33,9 @@ article:
         one: "{{ .Count }} minute read"
         other: "{{ .Count }} minute read"
 
+    shareThisPost:
+        other: Share this post
+
 notFound:
     title:
         other: Not Found
